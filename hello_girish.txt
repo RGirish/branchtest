@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 hello.txt in girish branch
 Dei dubakuru
-=======
+
 hello.txt in girish branch.
 This is a new line I'm adding. Just playing with conflicts.
 >>>>>>> a5ad03835e2bc52fedf9f14f7ce86655d3a492d7
